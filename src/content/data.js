@@ -1,0 +1,65 @@
+export const data = [
+    {
+      "name": "Art Gallery",
+      "url": "/images/Art_Gallery.jpeg",
+      "description": "An Art Gallery in the heart of Lagos",
+      "date": "2020-06-09",
+      "type": "image/jpeg",
+    },
+    {
+      "name": "Calabar-Aerial",
+      "url": "/images/Calabar-Aerial-View.jpeg",
+      "description": "Aerial view of Calabar",
+      "date": "2020-06-09",
+      "type": "image/jpeg",
+    },
+    {
+      "name": "Carnival",
+      "url": "/images/carnival.jpg",
+      "description": "A carnical event in Calabar",
+      "date": "2020-06-09",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Lekki",
+      "url": "/images/Lekki.jpg",
+      "description": "Lekki Bridge",
+      "date": "2020-01-04",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Lagos View",
+      "url": "/images/Lag.jpeg",
+      "description": "A beautiful place in Lagos",
+      "date": "2020-01-05",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Blue Rail",
+      "url": "/images/rail.jpeg",
+      "description": "Blue Rail Train in Lagos",
+      "date": "2020-01-06",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Great Views",
+      "url": "/images/Untitled.jpg",
+      "description": "Beautiful place in Nigeria",
+      "date": "2020-01-07",
+      "type": "image/jpg",
+    },
+    {
+      "name": "WaterFall",
+      "url": "/images/waterfall.jpg",
+      "description": "Waterfall in Nigeria",
+      "date": "2020-01-08",
+      "type": "image/jpg",
+    },
+    {
+      "name": "Waterfront",
+      "url": "images/Waterfront.jpeg",
+      "description": "A beautiful Water pictorial",
+      "date": "2020-01-09",
+      "type": "image/jpg",
+    }
+  ]
